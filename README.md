@@ -10,13 +10,13 @@ I'm using definition which do **not** contains implied meanings
 - Fundamental: a central or primary rule or principle on which something is based.
 - Bias: an inclination towards something
 
-This means that we are looking for **Primary inclinations that allows the emergence of all space, time and their contents, including all forms of matter and energy**
-This is what we will call **nature** because it provides a clear definition of the sentence **against nature** as doing something against those primary inclinations.
+This means that we are looking for **Primary inclinations that allows the emergence of all space, time and their contents, including all forms of matter and energy (including life)**
+This is what I will call **nature** because it allows me to define clearly what is to be **"against nature"**: it means you are doing something against those primary inclinations.
 
 ### Why?
 The idea is simple, it goes like this:
 
-It start with the [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle) which postulate that our universe emerges from biases that especially allows for life to exist. If that's indeed true, then our human existence is the results of fundamental bias of the universe working through million of years!
+It start with the [Anthropic principle](https://en.wikipedia.org/wiki/Anthropic_principle) which postulate that our universe emerges from biases that especially allows for life to exist. If that's indeed true, then our human existence is the results of fundamental biases of the universe working through million of years!
 
 I feel like it would be unwise to ignore them to live our human life, I would even suggest that they provide insightful fundamental guidance to live a happy life.
 
